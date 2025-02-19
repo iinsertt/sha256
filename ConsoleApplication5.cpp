@@ -6,12 +6,6 @@
 #include <string>
 #include "sha256.cpp"
 
-#include <QtWidgets/QApplication>
-#include <QtWidgets/QDialog>
-#include <QtWidgets/QVBoxLayout>
-#include <QtWidgets/QLineEdit>
-#include <QtWidgets/QPushButton>
-#include <QtWidgets/QTextEdit>
 
 int main() {
 	int i = 1;
